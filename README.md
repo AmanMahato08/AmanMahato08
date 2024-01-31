@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amon Kr. Mahato</h1>
-<h3 align="center">🔭 I’m currently working on Data Analytics, Python,Excel, Machine Learning & Statistics</h3>
+<h3 align="center">🔭 I’m currently pursuing Data Analytics</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://github.com/AmanMahato08/AmanMahato08/assets/157887173/ee0ca3b2-7ac3-4f42-a493-d3e47231fb39">
