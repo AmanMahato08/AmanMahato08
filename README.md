@@ -1,4 +1,5 @@
-![logo](https://github.com/AmanMahato08/AmanMahato08/assets/157887173/bb76a89a-b6d7-429f-ba06-db0942f60f16)
+![logo](https://github.com/AmanMahato08/AmanMahato08/assets/157887173/be78132b-1989-4df2-ae1d-7aa106bf64be)
+
 <h1 align="center">Hi 👋, I'm Amon Kr. Mahato</h1>
 <h3 align="center">🔭 I’m currently pursuing Data Analytics</h3>
 
